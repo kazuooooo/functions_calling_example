@@ -9,7 +9,7 @@ Deno
 # Setup
 Need OPEN_AI_API_KEY
 ```
-export OPEN_AI_API_KEYE=xxxxx
+export OPEN_AI_API_KEY=xxxxx
 ```
 
 # Usage
